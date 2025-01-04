@@ -1,7 +1,7 @@
 #:schema node_modules/wrangler/config-schema.json
 name = "openauth-cloudflare"
 main = "src/index.ts"
-compatibility_date = "2023-05-18"
+compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
 
 # Workers Logs
