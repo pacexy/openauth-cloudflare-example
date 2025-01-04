@@ -10,15 +10,15 @@
     "cf-typegen": "wrangler types"
   },
   "devDependencies": {
-    "@cloudflare/vitest-pool-workers": "^0.5.2",
-    "@cloudflare/workers-types": "^4.20241218.0",
-    "typescript": "^5.5.2",
+    "@cloudflare/vitest-pool-workers": "^0.5.40",
+    "@cloudflare/workers-types": "^4.20241230.0",
+    "typescript": "^5.7.2",
     "vitest": "2.1.8",
-    "wrangler": "^3.60.3"
+    "wrangler": "^3.99.0"
   },
-  "packageManager": "pnpm@9.15.1+sha512.1acb565e6193efbebda772702950469150cf12bcc764262e7587e71d19dc98a423dff9536e57ea44c49bdf790ff694e83c27be5faa23d67e0c033b583be4bfcf",
+  "packageManager": "pnpm@9.15.2+sha512.93e57b0126f0df74ce6bff29680394c0ba54ec47246b9cf321f0121d8d9bb03f750a705f24edc3c1180853afd7c2c3b94196d0a3d53d3e069d9e2793ef11f321",
   "dependencies": {
-    "@openauthjs/openauth": "^0.2.5",
+    "@openauthjs/openauth": "^0.3.1",
     "valibot": "1.0.0-beta.9"
   }
 }
